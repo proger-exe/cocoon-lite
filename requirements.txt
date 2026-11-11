@@ -1,0 +1,5 @@
+kurigram @ git+https://github.com/kurigram-org/kurigram.git@3a6c0dd6176786c58fe8215cb7d8f81199b9f51f
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+httpx[socks]>=0.27,<1
+python-dotenv>=1,<2
